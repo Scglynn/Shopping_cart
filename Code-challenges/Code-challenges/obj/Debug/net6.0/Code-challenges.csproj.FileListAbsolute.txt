@@ -1,0 +1,15 @@
+C:\Source\Interview_prac\Code-challenges\Code-challenges\bin\Debug\net6.0\Code-challenges.exe
+C:\Source\Interview_prac\Code-challenges\Code-challenges\bin\Debug\net6.0\Code-challenges.deps.json
+C:\Source\Interview_prac\Code-challenges\Code-challenges\bin\Debug\net6.0\Code-challenges.runtimeconfig.json
+C:\Source\Interview_prac\Code-challenges\Code-challenges\bin\Debug\net6.0\Code-challenges.dll
+C:\Source\Interview_prac\Code-challenges\Code-challenges\bin\Debug\net6.0\Code-challenges.pdb
+C:\Source\Interview_prac\Code-challenges\Code-challenges\obj\Debug\net6.0\Code-challenges.csproj.AssemblyReference.cache
+C:\Source\Interview_prac\Code-challenges\Code-challenges\obj\Debug\net6.0\Code-challenges.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\Interview_prac\Code-challenges\Code-challenges\obj\Debug\net6.0\Code-challenges.AssemblyInfoInputs.cache
+C:\Source\Interview_prac\Code-challenges\Code-challenges\obj\Debug\net6.0\Code-challenges.AssemblyInfo.cs
+C:\Source\Interview_prac\Code-challenges\Code-challenges\obj\Debug\net6.0\Code-challenges.csproj.CoreCompileInputs.cache
+C:\Source\Interview_prac\Code-challenges\Code-challenges\obj\Debug\net6.0\Code-challenges.dll
+C:\Source\Interview_prac\Code-challenges\Code-challenges\obj\Debug\net6.0\refint\Code-challenges.dll
+C:\Source\Interview_prac\Code-challenges\Code-challenges\obj\Debug\net6.0\Code-challenges.pdb
+C:\Source\Interview_prac\Code-challenges\Code-challenges\obj\Debug\net6.0\Code-challenges.genruntimeconfig.cache
+C:\Source\Interview_prac\Code-challenges\Code-challenges\obj\Debug\net6.0\ref\Code-challenges.dll
